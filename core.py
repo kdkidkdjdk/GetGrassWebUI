@@ -73,8 +73,8 @@ class AsyncGrassWs:
                 "user_id": self.user_id,
                 "user_agent": self.user_agent,
                 "timestamp": int(time.time()),
-                "device_type": "extension",
-                "version": "3.3.2"
+                "device_type": "desktop",
+                "version": "4.28.2"
             }
         }
 
