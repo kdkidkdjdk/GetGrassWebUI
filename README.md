@@ -11,8 +11,8 @@
 4. 点击上传文件 上传编辑好的 `account.txt`
 
 ### **Docker Compose 运行**
-1. `git clone https://github.com/kdkidkdjdk/GetGrassWebUI.git
-2. `docker compose up --build -d`
+1. git clone https://github.com/kdkidkdjdk/GetGrassWebUI.git cd GetGrassWebUI
+2. docker compose up --build -d`
 3. 浏览器访问`http://{容器ip}:8000`
 4. 点击上传文件 上传编辑好的 `account.txt`
 
